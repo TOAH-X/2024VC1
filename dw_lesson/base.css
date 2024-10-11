@@ -1,0 +1,20 @@
+@charset "utf-8";
+body h1 {
+	color: #D16800;
+	font-family: "HGP創英角ｺﾞｼｯｸUB";
+	text-indent: 0px;
+}
+.key {
+	color: #1029DD;
+	background-color: #FFE5D4;
+	font-size:x-large;
+}
+body p img {
+	border: 10px dotted #4FD420;
+}
+body {
+	background-repeat: no-repeat;
+	background-image: url(cit.jpg);
+	background-position: 0 0px;
+	background-size: 1000px 1000px;
+}
